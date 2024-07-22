@@ -1,0 +1,77 @@
+.main {
+    overflow-x: hidden;
+    background-image: url('./src/starry-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+}
+
+
+.menu {
+    color: white;
+    /* border: 2px solid white; */
+}
+
+.text {
+    color: #D1D8C5;
+    font-size: 48px;
+}
+
+.section1 {
+    height: 100vh;
+    
+}
+.section1 .col-6 {
+    height: 80vh;
+    margin-top: -2px;
+    font-size: 36px;
+    font-weight: bold;
+ 
+}
+.title {
+    background-color: #402E7A;
+    font-size: 60px;
+}
+.intro {
+    color: #615EFC;
+    
+}
+
+.profile {
+    width: 60%;
+    height: 60%;
+    border: 10px solid #615EFC;
+    border-radius: 50%;
+    background-color: rgba(126, 142, 241, 0.3);
+    
+    
+}
+.section2 {
+    height: 100vh;
+    width: 100vw;
+}
+.card-container {
+    height: 600px;
+}
+.card {
+    background-color: rgba(62, 86, 239, 0.3);
+}
+
+.section3 {
+    height: 100vh;
+    width: 100vw;
+    
+}
+.manhwa-img {
+    object-fit: contain;
+    height: 80vh;
+}
+.contact-container {
+    height: 83vh;
+}
+.col-4 {
+    background-color: rgba(126, 142, 241, 0.3);
+    border: 10px solid rgba(4, 9, 37, 0.3);
+}
